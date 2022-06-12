@@ -7,6 +7,11 @@
 /nepse_crawler/nepse_crawler/spiders/__pycache__
 
 
+# Nepse Predictor Not to push Files ...
+/neppredictor/.idea
+/neppredictor/media
+/nepse
+
 # Developemental Stage Files not to be pushed ...
 /nepse-data
 /env
