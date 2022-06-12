@@ -5,7 +5,7 @@
 /nepse_crawler/.idea
 /nepse_crawler/nepse_crawler/__pycache__
 /nepse_crawler/nepse_crawler/spiders/__pycache__
-
+/nepse_crawler/nepse_crawler/spiders
 
 # Nepse Predictor Not to push Files ...
 /neppredictor/.idea
