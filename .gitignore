@@ -1,0 +1,9 @@
+# Nepse Data Collecter Cache Folders ...
+/nepse_crawler/.idea
+/nepse_crawler/nepse_crawler/__pycache__
+/nepse_crawler/nepse_crawler/spiders/__pycache__
+
+
+# Developemental Stage Files not to be pushed ...
+/nepse-data
+/env
