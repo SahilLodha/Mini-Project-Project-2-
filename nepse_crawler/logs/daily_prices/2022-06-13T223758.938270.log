@@ -1,0 +1,439 @@
+2022-06-13 22:37:58 [scrapy] DEBUG: Crawled (404) <GET http://www.nepalstock.com/robots.txt> (referer: None)
+2022-06-13 22:37:59 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/todaysprice> (referer: None)
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '1', 'Name': '10% Prabhu Bank Debenture 2084 ', 'No. Of Transaction': '1', 'Max Price': '970.00', 'Min Price': '970.00', 'Closing Price': '970.00', 'Traded Shares': '25.00', 'Amount': '24250.00', 'Previous Closing': '970.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '2', 'Name': '10% Sanima Bank Limited Debenture', 'No. Of Transaction': '1', 'Max Price': '950.00', 'Min Price': '950.00', 'Closing Price': '950.00', 'Traded Shares': '50.00', 'Amount': '47500.00', 'Previous Closing': '950.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '3', 'Name': '10.25% GLOBAL IME BANK LTD. DEBENTURE 2080/81', 'No. Of Transaction': '3', 'Max Price': '950.00', 'Min Price': '947.10', 'Closing Price': '947.10', 'Traded Shares': '50.00', 'Amount': '47436.00', 'Previous Closing': '947.60'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '4', 'Name': '10.25% KBL Debenture 2086', 'No. Of Transaction': '1', 'Max Price': '960.30', 'Min Price': '960.30', 'Closing Price': '960.30', 'Traded Shares': '25.00', 'Amount': '24007.50', 'Previous Closing': '941.50'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '5', 'Name': '10.35% Agricultural Bank Debenture 2083', 'No. Of Transaction': '1', 'Max Price': '979.00', 'Min Price': '979.00', 'Closing Price': '979.00', 'Traded Shares': '25.00', 'Amount': '24475.00', 'Previous Closing': '964.60'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '6', 'Name': '12% ICFC Finance Limited Debenture 2083', 'No. Of Transaction': '1', 'Max Price': '1070.00', 'Min Price': '1070.00', 'Closing Price': '1070.00', 'Traded Shares': '25.00', 'Amount': '26750.00', 'Previous Closing': '1070.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '7', 'Name': 'Aarambha Chautari Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '14', 'Max Price': '871.00', 'Min Price': '840.00', 'Closing Price': '853.60', 'Traded Shares': '284.00', 'Amount': '243826.00', 'Previous Closing': '845.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '8', 'Name': 'ADHIKHOLA LAGHUBITTA BITTIYA SANSTHA LIMITED', 'No. Of Transaction': '11', 'Max Price': '414.50', 'Min Price': '391.50', 'Closing Price': '414.50', 'Traded Shares': '70.00', 'Amount': '28168.10', 'Previous Closing': '398.50'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '9', 'Name': 'Agricultural Development Bank Limited', 'No. Of Transaction': '162', 'Max Price': '340.00', 'Min Price': '332.00', 'Closing Price': '332.00', 'Traded Shares': '9837.00', 'Amount': '3290800.30', 'Previous Closing': '335.60'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '10', 'Name': 'Ajod Insurance Limited', 'No. Of Transaction': '38', 'Max Price': '489.00', 'Min Price': '480.50', 'Closing Price': '488.00', 'Traded Shares': '1040.00', 'Amount': '501773.00', 'Previous Closing': '490.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '11', 'Name': 'Ankhu Khola Jalvidhyut Company Ltd', 'No. Of Transaction': '164', 'Max Price': '219.00', 'Min Price': '211.00', 'Closing Price': '212.80', 'Traded Shares': '18892.00', 'Amount': '4028509.50', 'Previous Closing': '215.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '12', 'Name': 'Api Power Company Ltd.', 'No. Of Transaction': '305', 'Max Price': '274.90', 'Min Price': '267.00', 'Closing Price': '268.90', 'Traded Shares': '46426.00', 'Amount': '12538439.00', 'Previous Closing': '271.10'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '13', 'Name': 'Arun Kabeli Power Ltd.', 'No. Of Transaction': '183', 'Max Price': '455.00', 'Min Price': '445.00', 'Closing Price': '448.00', 'Traded Shares': '21514.00', 'Amount': '9637207.00', 'Previous Closing': '447.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '14', 'Name': 'Arun Valley Hydropower Development Co. Ltd.', 'No. Of Transaction': '203', 'Max Price': '398.00', 'Min Price': '392.00', 'Closing Price': '393.00', 'Traded Shares': '34437.00', 'Amount': '13599634.80', 'Previous Closing': '394.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '15', 'Name': 'Asha Laghubitta Bittiya Sanstha Ltd', 'No. Of Transaction': '39', 'Max Price': '1280.00', 'Min Price': '1223.00', 'Closing Price': '1275.00', 'Traded Shares': '1347.00', 'Amount': '1685562.70', 'Previous Closing': '1271.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '16', 'Name': 'Asian Life Insurance Co. Limited', 'No. Of Transaction': '220', 'Max Price': '575.00', 'Min Price': '545.20', 'Closing Price': '559.00', 'Traded Shares': '48744.00', 'Amount': '27328852.60', 'Previous Closing': '553.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '17', 'Name': 'Balephi Hydropower Limited', 'No. Of Transaction': '216', 'Max Price': '298.30', 'Min Price': '276.60', 'Closing Price': '298.30', 'Traded Shares': '2160.00', 'Amount': '643794.00', 'Previous Closing': '271.20'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '18', 'Name': 'Bank of Kathmandu Limited Promoter Share', 'No. Of Transaction': '3', 'Max Price': '141.00', 'Min Price': '141.00', 'Closing Price': '141.00', 'Traded Shares': '5755.00', 'Amount': '811455.00', 'Previous Closing': '141.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '19', 'Name': 'Bank of Kathmandu Ltd.', 'No. Of Transaction': '212', 'Max Price': '240.20', 'Min Price': '229.00', 'Closing Price': '236.00', 'Traded Shares': '201818.00', 'Amount': '46914713.30', 'Previous Closing': '235.50'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/todaysprice>
+{'SN': '20', 'Name': 'Barun Hydropower Co. Ltd.', 'No. Of Transaction': '52', 'Max Price': '459.00', 'Min Price': '446.00', 'Closing Price': '451.90', 'Traded Shares': '7039.00', 'Amount': '3166799.50', 'Previous Closing': '450.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/2/> (referer: http://www.nepalstock.com/todaysprice)
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '21', 'Name': 'Best Finance Company Ltd.', 'No. Of Transaction': '68', 'Max Price': '380.00', 'Min Price': '370.00', 'Closing Price': '371.30', 'Traded Shares': '6141.00', 'Amount': '2291486.00', 'Previous Closing': '374.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '22', 'Name': 'Bishal Bazar Company Limited', 'No. Of Transaction': '6', 'Max Price': '3622.00', 'Min Price': '3515.10', 'Closing Price': '3622.00', 'Traded Shares': '75.00', 'Amount': '267344.00', 'Previous Closing': '3551.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '23', 'Name': 'Bottlers Nepal (Terai) Limited', 'No. Of Transaction': '11', 'Max Price': '13250.00', 'Min Price': '12840.00', 'Closing Price': '12840.00', 'Traded Shares': '1880.00', 'Amount': '24867120.00', 'Previous Closing': '13109.70'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '24', 'Name': 'Buddha Bhumi Nepal Hydropower Company Limited', 'No. Of Transaction': '59', 'Max Price': '401.00', 'Min Price': '388.10', 'Closing Price': '388.10', 'Traded Shares': '2187.00', 'Amount': '862427.00', 'Previous Closing': '408.80'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '25', 'Name': 'Butwal Power Company Limited', 'No. Of Transaction': '66', 'Max Price': '335.00', 'Min Price': '329.00', 'Closing Price': '330.00', 'Traded Shares': '4493.00', 'Amount': '1493673.90', 'Previous Closing': '334.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '26', 'Name': 'CEDB Hydropower Development Company Limited', 'No. Of Transaction': '62', 'Max Price': '715.00', 'Min Price': '700.00', 'Closing Price': '705.00', 'Traded Shares': '3270.00', 'Amount': '2303731.00', 'Previous Closing': '709.30'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '27', 'Name': 'Central Finance Co. Ltd.', 'No. Of Transaction': '95', 'Max Price': '295.00', 'Min Price': '277.00', 'Closing Price': '280.00', 'Traded Shares': '7335.00', 'Amount': '2078941.00', 'Previous Closing': '285.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '28', 'Name': 'Century Commercial Bank Ltd.', 'No. Of Transaction': '172', 'Max Price': '201.00', 'Min Price': '196.50', 'Closing Price': '197.20', 'Traded Shares': '143128.00', 'Amount': '28396932.40', 'Previous Closing': '199.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '29', 'Name': 'Chandragiri Hills Limited', 'No. Of Transaction': '80', 'Max Price': '1050.00', 'Min Price': '1014.40', 'Closing Price': '1038.00', 'Traded Shares': '3070.00', 'Amount': '3155946.00', 'Previous Closing': '1050.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '30', 'Name': 'Chhimek Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '138', 'Max Price': '1050.60', 'Min Price': '1010.00', 'Closing Price': '1016.00', 'Traded Shares': '5422.00', 'Amount': '5515675.70', 'Previous Closing': '1020.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '31', 'Name': 'Chhyangdi Hydropower Ltd.', 'No. Of Transaction': '57', 'Max Price': '304.00', 'Min Price': '281.30', 'Closing Price': '284.90', 'Traded Shares': '4317.00', 'Amount': '1233422.70', 'Previous Closing': '287.10'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '32', 'Name': 'Chilime Hydropower Company Limited', 'No. Of Transaction': '81', 'Max Price': '399.00', 'Min Price': '395.10', 'Closing Price': '396.00', 'Traded Shares': '7280.00', 'Amount': '2885709.20', 'Previous Closing': '399.90'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '33', 'Name': 'Citizen Bank International Limited', 'No. Of Transaction': '105', 'Max Price': '224.00', 'Min Price': '219.00', 'Closing Price': '222.00', 'Traded Shares': '73734.00', 'Amount': '16265561.10', 'Previous Closing': '223.10'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '34', 'Name': 'Citizen Investment Trust', 'No. Of Transaction': '297', 'Max Price': '2425.00', 'Min Price': '2350.00', 'Closing Price': '2365.00', 'Traded Shares': '8670.00', 'Amount': '20632578.00', 'Previous Closing': '2405.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '35', 'Name': 'Citizens Mutual Fund -1', 'No. Of Transaction': '1', 'Max Price': '8.66', 'Min Price': '8.66', 'Closing Price': '8.66', 'Traded Shares': '100.00', 'Amount': '866.00', 'Previous Closing': '8.80'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '36', 'Name': 'CITIZENS MUTUAL FUND 2', 'No. Of Transaction': '1', 'Max Price': '9.62', 'Min Price': '9.62', 'Closing Price': '9.62', 'Traded Shares': '1000.00', 'Amount': '9620.00', 'Previous Closing': '9.81'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '37', 'Name': 'Civil Bank Ltd', 'No. Of Transaction': '384', 'Max Price': '212.00', 'Min Price': '205.00', 'Closing Price': '207.10', 'Traded Shares': '257451.00', 'Amount': '53700379.40', 'Previous Closing': '206.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '38', 'Name': 'Civil Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '13', 'Max Price': '765.00', 'Min Price': '752.10', 'Closing Price': '765.00', 'Traded Shares': '1222.00', 'Amount': '931663.80', 'Previous Closing': '776.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '39', 'Name': 'Corporate Development Bank Limited', 'No. Of Transaction': '57', 'Max Price': '321.00', 'Min Price': '305.00', 'Closing Price': '308.00', 'Traded Shares': '4071.00', 'Amount': '1256771.30', 'Previous Closing': '317.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/2/>
+{'SN': '40', 'Name': 'CYC Nepal Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '11', 'Max Price': '382.20', 'Min Price': '382.20', 'Closing Price': '382.20', 'Traded Shares': '60.00', 'Amount': '22848.10', 'Previous Closing': '0.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/3/> (referer: http://www.nepalstock.com/main/todays_price/index/2/)
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '41', 'Name': 'Deprosc Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '115', 'Max Price': '1017.90', 'Min Price': '971.00', 'Closing Price': '975.00', 'Traded Shares': '4335.00', 'Amount': '4244968.30', 'Previous Closing': '998.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '42', 'Name': 'Dibyashwori Hydropower Ltd.', 'No. Of Transaction': '60', 'Max Price': '228.90', 'Min Price': '214.00', 'Closing Price': '228.90', 'Traded Shares': '10197.00', 'Amount': '2232316.30', 'Previous Closing': '222.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '43', 'Name': 'Emerging Nepal Limited', 'No. Of Transaction': '43', 'Max Price': '724.20', 'Min Price': '704.00', 'Closing Price': '712.90', 'Traded Shares': '895.00', 'Amount': '634055.10', 'Previous Closing': '719.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '44', 'Name': 'Everest Bank Limited', 'No. Of Transaction': '69', 'Max Price': '467.10', 'Min Price': '451.00', 'Closing Price': '456.90', 'Traded Shares': '4841.00', 'Amount': '2206586.80', 'Previous Closing': '458.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '45', 'Name': 'Excel Development Bank Ltd.', 'No. Of Transaction': '23', 'Max Price': '365.00', 'Min Price': '360.00', 'Closing Price': '360.00', 'Traded Shares': '2009.00', 'Amount': '726748.70', 'Previous Closing': '367.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '46', 'Name': 'First Micro Finance Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '40', 'Max Price': '642.00', 'Min Price': '625.10', 'Closing Price': '632.00', 'Traded Shares': '4592.00', 'Amount': '2897823.00', 'Previous Closing': '633.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '47', 'Name': 'Forward Microfinance Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '61', 'Max Price': '2359.00', 'Min Price': '2321.00', 'Closing Price': '2335.00', 'Traded Shares': '1524.00', 'Amount': '3569117.00', 'Previous Closing': '2364.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '48', 'Name': 'Ganapati Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '3', 'Max Price': '1014.90', 'Min Price': '994.70', 'Closing Price': '1010.00', 'Traded Shares': '39.00', 'Amount': '39330.10', 'Previous Closing': '995.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '49', 'Name': 'Garima Bikas Bank Limited', 'No. Of Transaction': '89', 'Max Price': '376.00', 'Min Price': '370.00', 'Closing Price': '372.90', 'Traded Shares': '7576.00', 'Amount': '2813324.50', 'Previous Closing': '372.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '50', 'Name': 'General Insurance Company Nepal Ltd', 'No. Of Transaction': '44', 'Max Price': '410.00', 'Min Price': '399.00', 'Closing Price': '409.00', 'Traded Shares': '830.00', 'Amount': '335407.00', 'Previous Closing': '412.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '51', 'Name': 'Ghalemdi Hydro Limited', 'No. Of Transaction': '103', 'Max Price': '215.00', 'Min Price': '210.00', 'Closing Price': '211.90', 'Traded Shares': '18986.00', 'Amount': '4021932.60', 'Previous Closing': '215.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '52', 'Name': 'Global IME Bank Limited', 'No. Of Transaction': '306', 'Max Price': '268.00', 'Min Price': '262.00', 'Closing Price': '265.00', 'Traded Shares': '49030.00', 'Amount': '13004905.60', 'Previous Closing': '265.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '53', 'Name': 'Global IME Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '15', 'Max Price': '1249.90', 'Min Price': '1225.00', 'Closing Price': '1240.00', 'Traded Shares': '711.00', 'Amount': '878205.00', 'Previous Closing': '1250.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '54', 'Name': 'Global IME Samunnat Scheme-1', 'No. Of Transaction': '17', 'Max Price': '10.50', 'Min Price': '10.20', 'Closing Price': '10.45', 'Traded Shares': '13850.00', 'Amount': '143192.40', 'Previous Closing': '10.40'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '55', 'Name': 'Goodwill Finance Limited', 'No. Of Transaction': '47', 'Max Price': '418.00', 'Min Price': '403.30', 'Closing Price': '411.50', 'Traded Shares': '3830.00', 'Amount': '1561337.50', 'Previous Closing': '411.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '56', 'Name': 'Grameen Bikas Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '24', 'Max Price': '757.80', 'Min Price': '740.00', 'Closing Price': '740.00', 'Traded Shares': '1327.00', 'Amount': '985460.00', 'Previous Closing': '743.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '57', 'Name': 'Green Development Bank Ltd.', 'No. Of Transaction': '15', 'Max Price': '240.00', 'Min Price': '234.00', 'Closing Price': '237.90', 'Traded Shares': '815.00', 'Amount': '193632.50', 'Previous Closing': '240.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '58', 'Name': 'Green Ventures Limited', 'No. Of Transaction': '701', 'Max Price': '320.70', 'Min Price': '297.40', 'Closing Price': '320.70', 'Traded Shares': '33483.00', 'Amount': '10676181.60', 'Previous Closing': '291.60'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '59', 'Name': 'GreenLife Hydropower Limited', 'No. Of Transaction': '61', 'Max Price': '365.00', 'Min Price': '347.00', 'Closing Price': '365.00', 'Traded Shares': '2370.00', 'Amount': '839740.00', 'Previous Closing': '359.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/3/>
+{'SN': '60', 'Name': 'Guheshowori Merchant Bank &amp; Finance Co. Ltd.', 'No. Of Transaction': '21', 'Max Price': '274.00', 'Min Price': '270.50', 'Closing Price': '270.60', 'Traded Shares': '1990.00', 'Amount': '539566.50', 'Previous Closing': '276.90'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/4/> (referer: http://www.nepalstock.com/main/todays_price/index/3/)
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '61', 'Name': 'Gurans Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '1', 'Max Price': '1010.30', 'Min Price': '1010.30', 'Closing Price': '1010.30', 'Traded Shares': '10.00', 'Amount': '10103.00', 'Previous Closing': '1030.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '62', 'Name': 'Gurkhas Finance Ltd.', 'No. Of Transaction': '111', 'Max Price': '399.00', 'Min Price': '381.30', 'Closing Price': '386.00', 'Traded Shares': '8712.00', 'Amount': '3384937.30', 'Previous Closing': '385.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '63', 'Name': 'Himal Dolakha Hydropower Company Limited', 'No. Of Transaction': '59', 'Max Price': '221.00', 'Min Price': '213.00', 'Closing Price': '213.00', 'Traded Shares': '7822.00', 'Amount': '1683073.00', 'Previous Closing': '217.20'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '64', 'Name': 'Himalaya Urja Bikas Company Limited', 'No. Of Transaction': '41', 'Max Price': '259.00', 'Min Price': '250.00', 'Closing Price': '252.00', 'Traded Shares': '4980.00', 'Amount': '1256814.00', 'Previous Closing': '258.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '65', 'Name': 'Himalayan Bank Limited', 'No. Of Transaction': '185', 'Max Price': '315.10', 'Min Price': '303.00', 'Closing Price': '304.00', 'Traded Shares': '15214.00', 'Amount': '4679701.20', 'Previous Closing': '316.50'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '66', 'Name': 'Himalayan Distillery Limited', 'No. Of Transaction': '251', 'Max Price': '3255.00', 'Min Price': '3150.00', 'Closing Price': '3153.00', 'Traded Shares': '6058.00', 'Amount': '19163905.60', 'Previous Closing': '3195.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '67', 'Name': 'Himalayan Power Partner Ltd.', 'No. Of Transaction': '52', 'Max Price': '382.50', 'Min Price': '353.00', 'Closing Price': '382.50', 'Traded Shares': '6751.00', 'Amount': '2476336.00', 'Previous Closing': '369.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '68', 'Name': 'Hydorelectricity Investment and Development Company Ltd', 'No. Of Transaction': '232', 'Max Price': '220.80', 'Min Price': '215.70', 'Closing Price': '216.10', 'Traded Shares': '27696.00', 'Amount': '6022721.70', 'Previous Closing': '218.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '69', 'Name': 'ICFC Finance Limited', 'No. Of Transaction': '126', 'Max Price': '439.00', 'Min Price': '422.00', 'Closing Price': '425.00', 'Traded Shares': '14617.00', 'Amount': '6256017.40', 'Previous Closing': '432.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '70', 'Name': 'IME General Insurance Ltd.', 'No. Of Transaction': '152', 'Max Price': '406.90', 'Min Price': '395.00', 'Closing Price': '406.90', 'Traded Shares': '15666.00', 'Amount': '6228346.70', 'Previous Closing': '404.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '71', 'Name': 'Infinity Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '25', 'Max Price': '939.90', 'Min Price': '912.00', 'Closing Price': '912.00', 'Traded Shares': '665.00', 'Amount': '617333.00', 'Previous Closing': '925.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '72', 'Name': 'Jalpa Samudayik Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '162', 'Max Price': '2241.00', 'Min Price': '2200.00', 'Closing Price': '2203.00', 'Traded Shares': '3185.00', 'Amount': '7051814.00', 'Previous Closing': '2239.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '73', 'Name': 'Janaki Finance Ltd.', 'No. Of Transaction': '35', 'Max Price': '377.00', 'Min Price': '370.00', 'Closing Price': '371.00', 'Traded Shares': '1378.00', 'Amount': '512358.60', 'Previous Closing': '375.40'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '74', 'Name': 'Janautthan Samudayic Laghubitta Bikas Bank Ltd.', 'No. Of Transaction': '109', 'Max Price': '1885.00', 'Min Price': '1767.00', 'Closing Price': '1880.80', 'Traded Shares': '3144.00', 'Amount': '5696450.20', 'Previous Closing': '1920.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '75', 'Name': 'Jeevan Bikas Laghubitta  Bittya Sanstha Ltd', 'No. Of Transaction': '118', 'Max Price': '2850.10', 'Min Price': '2800.60', 'Closing Price': '2835.00', 'Traded Shares': '1853.00', 'Amount': '5243661.70', 'Previous Closing': '2850.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '76', 'Name': 'Joshi Hydropower Development Company Ltd', 'No. Of Transaction': '45', 'Max Price': '225.70', 'Min Price': '213.00', 'Closing Price': '215.00', 'Traded Shares': '4047.00', 'Amount': '870395.50', 'Previous Closing': '217.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '77', 'Name': 'Jyoti Bikas Bank Limited', 'No. Of Transaction': '119', 'Max Price': '309.00', 'Min Price': '301.00', 'Closing Price': '304.00', 'Traded Shares': '11891.00', 'Amount': '3618858.40', 'Previous Closing': '305.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '78', 'Name': 'Jyoti Life Insurance Company Limited', 'No. Of Transaction': '141', 'Max Price': '394.00', 'Min Price': '385.00', 'Closing Price': '389.00', 'Traded Shares': '5536.00', 'Amount': '2146702.90', 'Previous Closing': '394.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '79', 'Name': 'Kalika Laghubitta Bittiya Sanstha Ltd', 'No. Of Transaction': '14', 'Max Price': '1100.00', 'Min Price': '1064.00', 'Closing Price': '1094.90', 'Traded Shares': '308.00', 'Amount': '332915.00', 'Previous Closing': '1084.00'}
+2022-06-13 22:37:59 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/4/>
+{'SN': '80', 'Name': 'Kalika power Company Ltd', 'No. Of Transaction': '11', 'Max Price': '399.80', 'Min Price': '385.00', 'Closing Price': '397.00', 'Traded Shares': '385.00', 'Amount': '149746.50', 'Previous Closing': '392.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/5/> (referer: http://www.nepalstock.com/main/todays_price/index/4/)
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '81', 'Name': 'Kamana Sewa Bikas Bank Limited', 'No. Of Transaction': '131', 'Max Price': '370.00', 'Min Price': '351.00', 'Closing Price': '352.00', 'Traded Shares': '12814.00', 'Amount': '4546529.50', 'Previous Closing': '357.10'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '82', 'Name': 'Karnali Development Bank Limited', 'No. Of Transaction': '12', 'Max Price': '255.00', 'Min Price': '249.00', 'Closing Price': '249.00', 'Traded Shares': '574.00', 'Amount': '143457.40', 'Previous Closing': '252.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '83', 'Name': 'Khanikhola Hydropower Co. Ltd.', 'No. Of Transaction': '36', 'Max Price': '220.00', 'Min Price': '212.50', 'Closing Price': '212.50', 'Traded Shares': '2292.00', 'Amount': '491785.10', 'Previous Closing': '216.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '84', 'Name': 'Kisan Lagubitta Bittiya Sanstha Limited', 'No. Of Transaction': '17', 'Max Price': '920.00', 'Min Price': '853.00', 'Closing Price': '913.00', 'Traded Shares': '227.00', 'Amount': '202126.00', 'Previous Closing': '888.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '85', 'Name': 'Kumari Bank Limited', 'No. Of Transaction': '411', 'Max Price': '209.90', 'Min Price': '201.00', 'Closing Price': '201.90', 'Traded Shares': '88463.00', 'Amount': '18086557.40', 'Previous Closing': '208.50'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '86', 'Name': 'Kumari Equity Fund', 'No. Of Transaction': '9', 'Max Price': '9.10', 'Min Price': '8.73', 'Closing Price': '9.10', 'Traded Shares': '5000.00', 'Amount': '45196.40', 'Previous Closing': '8.90'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '87', 'Name': 'Laxmi Bank Limited', 'No. Of Transaction': '49', 'Max Price': '216.90', 'Min Price': '210.70', 'Closing Price': '214.90', 'Traded Shares': '6915.00', 'Amount': '1464206.60', 'Previous Closing': '215.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '88', 'Name': 'Laxmi Equity Fund', 'No. Of Transaction': '7', 'Max Price': '9.53', 'Min Price': '9.52', 'Closing Price': '9.52', 'Traded Shares': '18900.00', 'Amount': '179943.00', 'Previous Closing': '9.60'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '89', 'Name': 'Laxmi Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '10', 'Max Price': '1232.00', 'Min Price': '1182.10', 'Closing Price': '1182.10', 'Traded Shares': '626.00', 'Amount': '765917.10', 'Previous Closing': '1230.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '90', 'Name': 'Laxmi Unnati Kosh', 'No. Of Transaction': '2', 'Max Price': '9.50', 'Min Price': '9.39', 'Closing Price': '9.39', 'Traded Shares': '11000.00', 'Amount': '104390.00', 'Previous Closing': '9.50'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '91', 'Name': 'Liberty Energy Company Limited', 'No. Of Transaction': '48', 'Max Price': '264.90', 'Min Price': '254.00', 'Closing Price': '255.00', 'Traded Shares': '3560.00', 'Amount': '916610.30', 'Previous Closing': '265.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '92', 'Name': 'Life Insurance Corporation (Nepal) Limited', 'No. Of Transaction': '108', 'Max Price': '1255.00', 'Min Price': '1213.00', 'Closing Price': '1234.80', 'Traded Shares': '7332.00', 'Amount': '9002512.40', 'Previous Closing': '1259.80'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '93', 'Name': 'Lumbini Bikas Bank Ltd.', 'No. Of Transaction': '80', 'Max Price': '362.10', 'Min Price': '347.90', 'Closing Price': '356.00', 'Traded Shares': '9142.00', 'Amount': '3245858.70', 'Previous Closing': '355.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '94', 'Name': 'Lumbini General Insurance Co. Ltd.', 'No. Of Transaction': '71', 'Max Price': '445.00', 'Min Price': '430.00', 'Closing Price': '445.00', 'Traded Shares': '5151.00', 'Amount': '2233343.30', 'Previous Closing': '439.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '95', 'Name': 'Machhapuchhre Bank Limited', 'No. Of Transaction': '146', 'Max Price': '248.00', 'Min Price': '243.00', 'Closing Price': '243.10', 'Traded Shares': '22161.00', 'Amount': '5410406.00', 'Previous Closing': '245.60'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '96', 'Name': 'Madhya Bhotekoshi Jalavidyut Company Limited', 'No. Of Transaction': '288', 'Max Price': '260.00', 'Min Price': '250.00', 'Closing Price': '252.10', 'Traded Shares': '4780.00', 'Amount': '1210730.00', 'Previous Closing': '255.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '97', 'Name': 'Mahalaxmi Bikas Bank Ltd.', 'No. Of Transaction': '132', 'Max Price': '373.00', 'Min Price': '362.00', 'Closing Price': '365.00', 'Traded Shares': '13662.00', 'Amount': '4970982.40', 'Previous Closing': '366.60'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '98', 'Name': 'Mahila Lagubitta Bittiya Sanstha Limited ', 'No. Of Transaction': '56', 'Max Price': '3455.00', 'Min Price': '3402.10', 'Closing Price': '3430.00', 'Traded Shares': '952.00', 'Amount': '3276305.00', 'Previous Closing': '3404.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '99', 'Name': 'Mahuli Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '16', 'Max Price': '1088.00', 'Min Price': '1038.00', 'Closing Price': '1038.00', 'Traded Shares': '454.00', 'Amount': '489087.00', 'Previous Closing': '1064.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/5/>
+{'SN': '100', 'Name': 'Mailung Khola Jal Vidhyut Company Limited', 'No. Of Transaction': '9', 'Max Price': '478.30', 'Min Price': '460.00', 'Closing Price': '464.00', 'Traded Shares': '220.00', 'Amount': '102950.00', 'Previous Closing': '469.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/6/> (referer: http://www.nepalstock.com/main/todays_price/index/5/)
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '101', 'Name': 'Manakamana Smart Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '3', 'Max Price': '895.50', 'Min Price': '878.00', 'Closing Price': '895.00', 'Traded Shares': '41.00', 'Amount': '36518.00', 'Previous Closing': '895.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '102', 'Name': 'Manjushree Finance Ltd.', 'No. Of Transaction': '72', 'Max Price': '449.90', 'Min Price': '433.20', 'Closing Price': '440.00', 'Traded Shares': '5205.00', 'Amount': '2279680.40', 'Previous Closing': '442.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '103', 'Name': 'Manushi Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '20', 'Max Price': '1110.00', 'Min Price': '1047.00', 'Closing Price': '1047.20', 'Traded Shares': '290.00', 'Amount': '305296.00', 'Previous Closing': '1107.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '104', 'Name': 'Mega Mutual Fund -1', 'No. Of Transaction': '17', 'Max Price': '8.16', 'Min Price': '7.90', 'Closing Price': '8.05', 'Traded Shares': '13270.00', 'Amount': '106301.50', 'Previous Closing': '8.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '105', 'Name': 'Mero Microfinance Bittiya Sanstha Ltd.', 'No. Of Transaction': '18', 'Max Price': '881.00', 'Min Price': '865.00', 'Closing Price': '875.00', 'Traded Shares': '520.00', 'Amount': '451911.00', 'Previous Closing': '865.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '106', 'Name': 'Mirmire Microfinance Development Bank Ltd.', 'No. Of Transaction': '6', 'Max Price': '1129.70', 'Min Price': '1091.00', 'Closing Price': '1129.70', 'Traded Shares': '89.00', 'Amount': '98083.00', 'Previous Closing': '1110.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '107', 'Name': 'Miteri Development Bank Limited', 'No. Of Transaction': '46', 'Max Price': '375.00', 'Min Price': '362.00', 'Closing Price': '369.00', 'Traded Shares': '6209.00', 'Amount': '2276748.80', 'Previous Closing': '378.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '108', 'Name': 'Mithila LaghuBitta Bittiya Sanstha Limited', 'No. Of Transaction': '5', 'Max Price': '1259.70', 'Min Price': '1234.00', 'Closing Price': '1234.00', 'Traded Shares': '61.00', 'Amount': '75549.00', 'Previous Closing': '1235.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '109', 'Name': 'Mountain Energy Nepal Limited', 'No. Of Transaction': '33', 'Max Price': '936.00', 'Min Price': '870.30', 'Closing Price': '897.60', 'Traded Shares': '1190.00', 'Amount': '1049098.00', 'Previous Closing': '900.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '110', 'Name': 'Mountain Hydro Nepal Limited', 'No. Of Transaction': '66', 'Max Price': '299.80', 'Min Price': '289.00', 'Closing Price': '293.00', 'Traded Shares': '6125.00', 'Amount': '1787191.20', 'Previous Closing': '299.80'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '111', 'Name': 'Muktinath Bikas Bank Ltd.', 'No. Of Transaction': '152', 'Max Price': '437.20', 'Min Price': '430.00', 'Closing Price': '435.00', 'Traded Shares': '10715.00', 'Amount': '4665999.80', 'Previous Closing': '436.20'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '112', 'Name': 'Multipurpose Finance Company  Limited', 'No. Of Transaction': '61', 'Max Price': '246.80', 'Min Price': '235.00', 'Closing Price': '242.40', 'Traded Shares': '5834.00', 'Amount': '1388477.50', 'Previous Closing': '244.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '113', 'Name': 'NABIL BALANCED FUND-2', 'No. Of Transaction': '2', 'Max Price': '10.60', 'Min Price': '10.58', 'Closing Price': '10.58', 'Traded Shares': '4500.00', 'Amount': '47690.00', 'Previous Closing': '10.79'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '114', 'Name': 'Nabil Balanced Fund-3', 'No. Of Transaction': '17', 'Max Price': '8.40', 'Min Price': '8.29', 'Closing Price': '8.35', 'Traded Shares': '4395.00', 'Amount': '36756.50', 'Previous Closing': '8.35'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '115', 'Name': 'Nabil Bank Limited', 'No. Of Transaction': '539', 'Max Price': '850.00', 'Min Price': '844.80', 'Closing Price': '846.00', 'Traded Shares': '27758.00', 'Amount': '23514073.40', 'Previous Closing': '848.10'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '116', 'Name': 'Nabil Debenture 2085', 'No. Of Transaction': '2', 'Max Price': '819.30', 'Min Price': '819.20', 'Closing Price': '819.20', 'Traded Shares': '45.00', 'Amount': '36866.00', 'Previous Closing': '835.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '117', 'Name': 'Nabil Equity Fund', 'No. Of Transaction': '1', 'Max Price': '10.00', 'Min Price': '10.00', 'Closing Price': '10.00', 'Traded Shares': '483.00', 'Amount': '4830.00', 'Previous Closing': '10.20'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '118', 'Name': 'Narayani Development Bank Limited', 'No. Of Transaction': '50', 'Max Price': '397.00', 'Min Price': '375.20', 'Closing Price': '388.00', 'Traded Shares': '4922.00', 'Amount': '1879138.90', 'Previous Closing': '397.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '119', 'Name': 'National Hydro Power Company Limited', 'No. Of Transaction': '147', 'Max Price': '263.00', 'Min Price': '257.10', 'Closing Price': '257.10', 'Traded Shares': '21400.00', 'Amount': '5541604.80', 'Previous Closing': '259.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/6/>
+{'SN': '120', 'Name': 'National Life Insurance Co. Ltd.', 'No. Of Transaction': '157', 'Max Price': '590.00', 'Min Price': '568.00', 'Closing Price': '570.00', 'Traded Shares': '19649.00', 'Amount': '11288762.70', 'Previous Closing': '587.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/7/> (referer: http://www.nepalstock.com/main/todays_price/index/6/)
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '121', 'Name': 'National Microfinance Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '40', 'Max Price': '1922.00', 'Min Price': '1885.00', 'Closing Price': '1910.00', 'Traded Shares': '1655.00', 'Amount': '3157568.80', 'Previous Closing': '1910.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '122', 'Name': 'Naya Sarathi Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '3', 'Max Price': '870.00', 'Min Price': '851.00', 'Closing Price': '870.00', 'Traded Shares': '39.00', 'Amount': '33509.00', 'Previous Closing': '867.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '123', 'Name': 'Neco Insurance Limited', 'No. Of Transaction': '79', 'Max Price': '686.00', 'Min Price': '670.00', 'Closing Price': '672.00', 'Traded Shares': '3949.00', 'Amount': '2660437.70', 'Previous Closing': '679.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '124', 'Name': 'Nepal Bank Limited', 'No. Of Transaction': '361', 'Max Price': '295.00', 'Min Price': '287.00', 'Closing Price': '287.00', 'Traded Shares': '35984.00', 'Amount': '10424984.60', 'Previous Closing': '290.10'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '125', 'Name': 'Nepal Credit And Commercial Bank Limited', 'No. Of Transaction': '166', 'Max Price': '209.00', 'Min Price': '205.00', 'Closing Price': '206.60', 'Traded Shares': '41019.00', 'Amount': '8465842.80', 'Previous Closing': '210.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '126', 'Name': 'Nepal Doorsanchar Company Limited', 'No. Of Transaction': '206', 'Max Price': '905.10', 'Min Price': '875.00', 'Closing Price': '890.00', 'Traded Shares': '8215.00', 'Amount': '7247166.00', 'Previous Closing': '888.20'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '127', 'Name': 'Nepal Finance Ltd.', 'No. Of Transaction': '47', 'Max Price': '285.00', 'Min Price': '276.50', 'Closing Price': '276.50', 'Traded Shares': '5670.00', 'Amount': '1601924.50', 'Previous Closing': '285.60'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '128', 'Name': 'Nepal Hydro Developers Ltd.', 'No. Of Transaction': '25', 'Max Price': '385.00', 'Min Price': '374.00', 'Closing Price': '384.90', 'Traded Shares': '4257.00', 'Amount': '1612483.60', 'Previous Closing': '380.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '129', 'Name': 'Nepal Infrastructure Bank Limited', 'No. Of Transaction': '575', 'Max Price': '270.00', 'Min Price': '264.00', 'Closing Price': '264.60', 'Traded Shares': '34768.00', 'Amount': '9248859.20', 'Previous Closing': '268.90'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '130', 'Name': 'Nepal Insurance Co. Ltd.', 'No. Of Transaction': '64', 'Max Price': '487.00', 'Min Price': '464.00', 'Closing Price': '470.00', 'Traded Shares': '7810.00', 'Amount': '3707541.10', 'Previous Closing': '487.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '131', 'Name': 'Nepal Life Insurance Co. Ltd.', 'No. Of Transaction': '502', 'Max Price': '774.00', 'Min Price': '755.00', 'Closing Price': '760.00', 'Traded Shares': '30186.00', 'Amount': '22956088.40', 'Previous Closing': '774.40'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '132', 'Name': 'Nepal Reinsurance Company Limited', 'No. Of Transaction': '217', 'Max Price': '788.90', 'Min Price': '768.00', 'Closing Price': '778.00', 'Traded Shares': '12203.00', 'Amount': '9463060.90', 'Previous Closing': '783.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '133', 'Name': 'Nepal SBI Bank Limited', 'No. Of Transaction': '38', 'Max Price': '301.90', 'Min Price': '290.20', 'Closing Price': '296.00', 'Traded Shares': '2061.00', 'Amount': '603080.00', 'Previous Closing': '296.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '134', 'Name': 'Nerude Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '19', 'Max Price': '943.70', 'Min Price': '915.10', 'Closing Price': '943.70', 'Traded Shares': '716.00', 'Amount': '667122.90', 'Previous Closing': '930.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '135', 'Name': 'NESDO Sambridha Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '116', 'Max Price': '2230.00', 'Min Price': '2190.00', 'Closing Price': '2210.00', 'Traded Shares': '1665.00', 'Amount': '3668006.00', 'Previous Closing': '2206.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '136', 'Name': 'Ngadi Group Power Ltd.', 'No. Of Transaction': '85', 'Max Price': '566.00', 'Min Price': '554.70', 'Closing Price': '558.00', 'Traded Shares': '12092.00', 'Amount': '6758339.20', 'Previous Closing': '555.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '137', 'Name': 'NIBL Samriddhi Fund -2', 'No. Of Transaction': '8', 'Max Price': '8.20', 'Min Price': '8.04', 'Closing Price': '8.10', 'Traded Shares': '2300.00', 'Amount': '18560.00', 'Previous Closing': '8.10'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '138', 'Name': 'NIC Asia Balanced Fund', 'No. Of Transaction': '5', 'Max Price': '10.50', 'Min Price': '10.47', 'Closing Price': '10.50', 'Traded Shares': '10900.00', 'Amount': '114435.00', 'Previous Closing': '10.47'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '139', 'Name': 'NIC Asia Bank Ltd.', 'No. Of Transaction': '353', 'Max Price': '716.00', 'Min Price': '705.00', 'Closing Price': '709.50', 'Traded Shares': '34498.00', 'Amount': '24507678.30', 'Previous Closing': '716.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/7/>
+{'SN': '140', 'Name': 'NIC Asia Growth Fund', 'No. Of Transaction': '5', 'Max Price': '10.90', 'Min Price': '10.69', 'Closing Price': '10.90', 'Traded Shares': '21800.00', 'Amount': '233908.00', 'Previous Closing': '10.90'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/8/> (referer: http://www.nepalstock.com/main/todays_price/index/7/)
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '141', 'Name': 'NIC ASIA Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '105', 'Max Price': '870.00', 'Min Price': '850.00', 'Closing Price': '850.00', 'Traded Shares': '3699.00', 'Amount': '3174468.50', 'Previous Closing': '866.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '142', 'Name': 'NIC Asia Select Fund 30', 'No. Of Transaction': '22', 'Max Price': '8.30', 'Min Price': '8.15', 'Closing Price': '8.15', 'Traded Shares': '58000.00', 'Amount': '476048.00', 'Previous Closing': '8.38'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '143', 'Name': 'Nirdhan Utthan Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '52', 'Max Price': '1014.00', 'Min Price': '995.00', 'Closing Price': '995.00', 'Traded Shares': '2851.00', 'Amount': '2847255.50', 'Previous Closing': '1003.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '144', 'Name': 'NLG Insurance Company Ltd.', 'No. Of Transaction': '32', 'Max Price': '524.80', 'Min Price': '515.00', 'Closing Price': '518.00', 'Traded Shares': '2034.00', 'Amount': '1050600.20', 'Previous Closing': '525.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '145', 'Name': 'NMB  Microfinance Bittiya Sanstha Ltd.', 'No. Of Transaction': '29', 'Max Price': '766.10', 'Min Price': '745.00', 'Closing Price': '746.00', 'Traded Shares': '1281.00', 'Amount': '960085.70', 'Previous Closing': '760.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '146', 'Name': 'NMB 50', 'No. Of Transaction': '4', 'Max Price': '12.63', 'Min Price': '12.20', 'Closing Price': '12.20', 'Traded Shares': '2000.00', 'Amount': '24461.00', 'Previous Closing': '12.88'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '147', 'Name': 'NMB Bank Limited', 'No. Of Transaction': '199', 'Max Price': '268.00', 'Min Price': '263.00', 'Closing Price': '264.50', 'Traded Shares': '25913.00', 'Amount': '6833699.10', 'Previous Closing': '268.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '148', 'Name': 'NMB Hybrid Fund L-1', 'No. Of Transaction': '5', 'Max Price': '11.34', 'Min Price': '11.12', 'Closing Price': '11.12', 'Traded Shares': '6892.00', 'Amount': '77959.04', 'Previous Closing': '11.12'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '149', 'Name': 'NRN Infrastructure and Development Limited', 'No. Of Transaction': '59', 'Max Price': '512.00', 'Min Price': '495.00', 'Closing Price': '497.00', 'Traded Shares': '3913.00', 'Amount': '1950676.20', 'Previous Closing': '502.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '150', 'Name': 'Nyadi Hydropower Limited', 'No. Of Transaction': '62', 'Max Price': '321.40', 'Min Price': '310.80', 'Closing Price': '315.00', 'Traded Shares': '1581.00', 'Amount': '500281.00', 'Previous Closing': '317.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '151', 'Name': 'Oriental Hotels Limited', 'No. Of Transaction': '26', 'Max Price': '476.00', 'Min Price': '452.10', 'Closing Price': '452.20', 'Traded Shares': '2780.00', 'Amount': '1274401.50', 'Previous Closing': '477.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '152', 'Name': 'Panchakanya Mai Hydropower Ltd', 'No. Of Transaction': '5', 'Max Price': '230.00', 'Min Price': '225.50', 'Closing Price': '225.50', 'Traded Shares': '170.00', 'Amount': '38745.00', 'Previous Closing': '232.80'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '153', 'Name': 'Panchthar Power Compant Limited', 'No. Of Transaction': '61', 'Max Price': '307.00', 'Min Price': '300.00', 'Closing Price': '300.00', 'Traded Shares': '14417.00', 'Amount': '4352802.00', 'Previous Closing': '303.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '154', 'Name': 'Pokhara Finance Ltd.', 'No. Of Transaction': '34', 'Max Price': '360.00', 'Min Price': '347.10', 'Closing Price': '348.10', 'Traded Shares': '1706.00', 'Amount': '596296.90', 'Previous Closing': '354.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '155', 'Name': 'Prabhu  Bank Limited', 'No. Of Transaction': '217', 'Max Price': '236.00', 'Min Price': '232.00', 'Closing Price': '232.00', 'Traded Shares': '33922.00', 'Amount': '7909971.50', 'Previous Closing': '237.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '156', 'Name': 'Prabhu Insurance Ltd.', 'No. Of Transaction': '18', 'Max Price': '475.00', 'Min Price': '462.60', 'Closing Price': '465.00', 'Traded Shares': '988.00', 'Amount': '458285.80', 'Previous Closing': '471.90'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '157', 'Name': 'Prabhu Life Insurance Limited', 'No. Of Transaction': '116', 'Max Price': '399.00', 'Min Price': '383.00', 'Closing Price': '398.00', 'Traded Shares': '7076.00', 'Amount': '2741978.00', 'Previous Closing': '397.40'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '158', 'Name': 'Prabhu Select Fund', 'No. Of Transaction': '24', 'Max Price': '8.43', 'Min Price': '8.01', 'Closing Price': '8.31', 'Traded Shares': '62875.00', 'Amount': '514042.75', 'Previous Closing': '8.26'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '159', 'Name': 'Premier Insurance Company (Nepal) Limited', 'No. Of Transaction': '40', 'Max Price': '610.00', 'Min Price': '596.20', 'Closing Price': '604.00', 'Traded Shares': '2313.00', 'Amount': '1391969.20', 'Previous Closing': '612.00'}
+2022-06-13 22:38:00 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/8/>
+{'SN': '160', 'Name': 'Prime Commercial Bank Ltd.', 'No. Of Transaction': '318', 'Max Price': '270.10', 'Min Price': '263.00', 'Closing Price': '267.00', 'Traded Shares': '44216.00', 'Amount': '11744261.70', 'Previous Closing': '272.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/9/> (referer: http://www.nepalstock.com/main/todays_price/index/8/)
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '161', 'Name': 'ProgressiveFinance Limited', 'No. Of Transaction': '25', 'Max Price': '250.00', 'Min Price': '245.50', 'Closing Price': '245.50', 'Traded Shares': '1823.00', 'Amount': '449183.00', 'Previous Closing': '247.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '162', 'Name': 'Prudential Insurance Co. Ltd.', 'No. Of Transaction': '35', 'Max Price': '385.00', 'Min Price': '367.00', 'Closing Price': '370.00', 'Traded Shares': '3835.00', 'Amount': '1414832.10', 'Previous Closing': '378.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '163', 'Name': 'Radhi Bidyut Company Ltd', 'No. Of Transaction': '73', 'Max Price': '575.00', 'Min Price': '567.00', 'Closing Price': '567.00', 'Traded Shares': '5228.00', 'Amount': '2981976.20', 'Previous Closing': '569.80'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '164', 'Name': 'Rastra Utthan Laghubitta Sanstha Limited', 'No. Of Transaction': '82', 'Max Price': '934.00', 'Min Price': '900.10', 'Closing Price': '906.40', 'Traded Shares': '959.00', 'Amount': '873156.90', 'Previous Closing': '916.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '165', 'Name': 'Rastriya Beema Company Limited', 'No. Of Transaction': '18', 'Max Price': '14899.00', 'Min Price': '14309.10', 'Closing Price': '14309.10', 'Traded Shares': '219.00', 'Amount': '3155687.00', 'Previous Closing': '14624.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '166', 'Name': 'Rastriya Beema Company Limited Promoter Share', 'No. Of Transaction': '18', 'Max Price': '12250.00', 'Min Price': '11600.00', 'Closing Price': '11600.00', 'Traded Shares': '220.00', 'Amount': '2585376.00', 'Previous Closing': '12021.70'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '167', 'Name': 'RASUWAGADHI HYDROPOWER COMPANY LIMITED', 'No. Of Transaction': '64', 'Max Price': '289.00', 'Min Price': '282.00', 'Closing Price': '283.00', 'Traded Shares': '4773.00', 'Amount': '1358618.70', 'Previous Closing': '290.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '168', 'Name': 'RBB Mutual Fund 1', 'No. Of Transaction': '7', 'Max Price': '8.60', 'Min Price': '8.43', 'Closing Price': '8.43', 'Traded Shares': '5360.00', 'Amount': '45230.00', 'Previous Closing': '8.54'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '169', 'Name': 'Reliance Finance Ltd.', 'No. Of Transaction': '45', 'Max Price': '293.00', 'Min Price': '288.00', 'Closing Price': '288.00', 'Traded Shares': '3922.00', 'Amount': '1133892.00', 'Previous Closing': '288.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '170', 'Name': 'Reliance Life Insurance Limited', 'No. Of Transaction': '107', 'Max Price': '370.00', 'Min Price': '364.00', 'Closing Price': '364.00', 'Traded Shares': '4593.00', 'Amount': '1688160.50', 'Previous Closing': '370.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '171', 'Name': 'RMDC Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '62', 'Max Price': '800.00', 'Min Price': '784.00', 'Closing Price': '785.00', 'Traded Shares': '2214.00', 'Amount': '1747885.50', 'Previous Closing': '791.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '172', 'Name': 'RSDC Laghubitta Bittiya Sanstha Ltd.', 'No. Of Transaction': '26', 'Max Price': '539.00', 'Min Price': '528.00', 'Closing Price': '530.00', 'Traded Shares': '575.00', 'Amount': '304578.60', 'Previous Closing': '539.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '173', 'Name': 'Ru Ru Jalbidhyut Pariyojana Limited', 'No. Of Transaction': '14', 'Max Price': '845.00', 'Min Price': '801.00', 'Closing Price': '803.10', 'Traded Shares': '527.00', 'Amount': '430916.50', 'Previous Closing': '829.90'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '174', 'Name': 'SABAIKO LAGHUBITTA BITTIYA SANSTHA LIMITED', 'No. Of Transaction': '5', 'Max Price': '1102.00', 'Min Price': '1090.00', 'Closing Price': '1090.00', 'Traded Shares': '72.00', 'Amount': '79042.00', 'Previous Closing': '1103.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '175', 'Name': 'Sadhana Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '27', 'Max Price': '1010.00', 'Min Price': '1000.10', 'Closing Price': '1007.00', 'Traded Shares': '636.00', 'Amount': '640928.90', 'Previous Closing': '1007.10'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '176', 'Name': 'Sagarmatha Insurance Co. Ltd.', 'No. Of Transaction': '31', 'Max Price': '861.90', 'Min Price': '801.00', 'Closing Price': '845.00', 'Traded Shares': '1184.00', 'Amount': '967110.90', 'Previous Closing': '845.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '177', 'Name': 'Sahas Urja Limited', 'No. Of Transaction': '236', 'Max Price': '507.90', 'Min Price': '493.00', 'Closing Price': '500.00', 'Traded Shares': '8877.00', 'Amount': '4419645.10', 'Previous Closing': '500.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '178', 'Name': 'Salt Trading Corporation', 'No. Of Transaction': '38', 'Max Price': '3260.00', 'Min Price': '3198.00', 'Closing Price': '3198.00', 'Traded Shares': '557.00', 'Amount': '1789978.00', 'Previous Closing': '3248.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '179', 'Name': 'Samata Gharelu Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '10', 'Max Price': '850.00', 'Min Price': '833.00', 'Closing Price': '847.00', 'Traded Shares': '204.00', 'Amount': '172789.40', 'Previous Closing': '837.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/9/>
+{'SN': '180', 'Name': 'Samling Power Company Limited', 'No. Of Transaction': '31', 'Max Price': '451.50', 'Min Price': '430.00', 'Closing Price': '440.00', 'Traded Shares': '360.00', 'Amount': '156052.00', 'Previous Closing': '442.80'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Crawled (200) <GET http://www.nepalstock.com/main/todays_price/index/10/> (referer: http://www.nepalstock.com/main/todays_price/index/9/)
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '181', 'Name': 'Samriddhi Finance Company Limited', 'No. Of Transaction': '83', 'Max Price': '233.40', 'Min Price': '221.00', 'Closing Price': '226.00', 'Traded Shares': '8225.00', 'Amount': '1871218.90', 'Previous Closing': '232.50'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '182', 'Name': 'Samriddhi Finance Company Limited Promoter Share', 'No. Of Transaction': '1', 'Max Price': '128.00', 'Min Price': '128.00', 'Closing Price': '128.00', 'Traded Shares': '4618.00', 'Amount': '591104.00', 'Previous Closing': '128.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '183', 'Name': 'Samudayik Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '22', 'Max Price': '1460.00', 'Min Price': '1407.10', 'Closing Price': '1407.10', 'Traded Shares': '726.00', 'Amount': '1027260.90', 'Previous Closing': '1442.10'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '184', 'Name': 'Sana Kisan Bikas Laghubitta Bittiya Sanstha Limited', 'No. Of Transaction': '49', 'Max Price': '1085.00', 'Min Price': '1051.00', 'Closing Price': '1074.00', 'Traded Shares': '2270.00', 'Amount': '2424046.00', 'Previous Closing': '1072.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '185', 'Name': 'Sanima Bank Limited', 'No. Of Transaction': '326', 'Max Price': '286.00', 'Min Price': '270.00', 'Closing Price': '280.00', 'Traded Shares': '331856.00', 'Amount': '90161574.00', 'Previous Closing': '285.30'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '186', 'Name': 'Sanima Equity Fund', 'No. Of Transaction': '11', 'Max Price': '12.44', 'Min Price': '12.10', 'Closing Price': '12.44', 'Traded Shares': '36148.00', 'Amount': '444065.60', 'Previous Closing': '12.31'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '187', 'Name': 'Sanima General Insurance Limited', 'No. Of Transaction': '51', 'Max Price': '401.00', 'Min Price': '395.00', 'Closing Price': '400.00', 'Traded Shares': '1144.00', 'Amount': '454538.00', 'Previous Closing': '401.10'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '188', 'Name': 'Sanima Large Cap Fund', 'No. Of Transaction': '10', 'Max Price': '8.16', 'Min Price': '8.00', 'Closing Price': '8.11', 'Traded Shares': '8000.00', 'Amount': '64566.00', 'Previous Closing': '8.30'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '189', 'Name': 'Sanima Life Insurance Limited', 'No. Of Transaction': '163', 'Max Price': '390.00', 'Min Price': '375.00', 'Closing Price': '378.00', 'Traded Shares': '5545.00', 'Amount': '2105043.80', 'Previous Closing': '383.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '190', 'Name': 'Sanima Mai Hydropower Ltd.', 'No. Of Transaction': '174', 'Max Price': '323.00', 'Min Price': '315.00', 'Closing Price': '317.00', 'Traded Shares': '52118.00', 'Amount': '16517368.80', 'Previous Closing': '320.60'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '191', 'Name': 'SANJEN JALAVIDHYUT COMPANY LIMITED', 'No. Of Transaction': '64', 'Max Price': '285.00', 'Min Price': '275.00', 'Closing Price': '275.00', 'Traded Shares': '3791.00', 'Amount': '1050332.00', 'Previous Closing': '282.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '192', 'Name': 'Saptakoshi Development Bank Ltd', 'No. Of Transaction': '35', 'Max Price': '226.00', 'Min Price': '218.20', 'Closing Price': '220.00', 'Traded Shares': '3368.00', 'Amount': '744742.60', 'Previous Closing': '222.50'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '193', 'Name': 'Shangri-la Development Bank Debenture 2087', 'No. Of Transaction': '2', 'Max Price': '862.50', 'Min Price': '862.50', 'Closing Price': '862.50', 'Traded Shares': '20.00', 'Amount': '17250.00', 'Previous Closing': '862.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '194', 'Name': 'Shangrila Development Bank Ltd.', 'No. Of Transaction': '72', 'Max Price': '313.10', 'Min Price': '304.00', 'Closing Price': '307.80', 'Traded Shares': '10148.00', 'Amount': '3115405.40', 'Previous Closing': '307.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '195', 'Name': 'Shikhar Insurance Co. Ltd.', 'No. Of Transaction': '135', 'Max Price': '890.00', 'Min Price': '865.00', 'Closing Price': '870.00', 'Traded Shares': '8462.00', 'Amount': '7400324.60', 'Previous Closing': '889.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '196', 'Name': 'Shine Resunga Development Bank Ltd.', 'No. Of Transaction': '49', 'Max Price': '315.00', 'Min Price': '306.00', 'Closing Price': '308.00', 'Traded Shares': '5731.00', 'Amount': '1769933.00', 'Previous Closing': '310.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '197', 'Name': 'Shiva Shree Hydropower Ltd', 'No. Of Transaction': '28', 'Max Price': '252.00', 'Min Price': '245.20', 'Closing Price': '247.50', 'Traded Shares': '4210.00', 'Amount': '1040407.00', 'Previous Closing': '250.20'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '198', 'Name': 'SHIVAM CEMENTS LTD', 'No. Of Transaction': '400', 'Max Price': '758.00', 'Min Price': '724.00', 'Closing Price': '725.60', 'Traded Shares': '30931.00', 'Amount': '22691990.90', 'Previous Closing': '747.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '199', 'Name': 'Shree Investment Finance Co. Ltd.', 'No. Of Transaction': '32', 'Max Price': '320.00', 'Min Price': '308.10', 'Closing Price': '309.10', 'Traded Shares': '3164.00', 'Amount': '984673.50', 'Previous Closing': '319.00'}
+2022-06-13 22:38:01 [scrapy] DEBUG: Scraped from <200 http://www.nepalstock.com/main/todays_price/index/10/>
+{'SN': '200', 'Name': 'Siddhartha Bank Limited', 'No. Of Transaction': '152', 'Max Price': '342.70', 'Min Price': '330.00', 'Closing Price': '334.00', 'Traded Shares': '20729.00', 'Amount': '6922496.60', 'Previous Closing': '336.00'}
+2022-06-13 22:38:01 [scrapy] INFO: Closing spider (finished)
+2022-06-13 22:38:01 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6653,
+ 'downloader/request_count': 11,
+ 'downloader/request_method_count/GET': 11,
+ 'downloader/response_bytes': 274045,
+ 'downloader/response_count': 11,
+ 'downloader/response_status_count/200': 10,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 2.498859,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2022, 6, 13, 16, 53, 1, 444883),
+ 'httpcompression/response_bytes': 1294635,
+ 'httpcompression/response_count': 10,
+ 'item_scraped_count': 200,
+ 'log_count/DEBUG': 211,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 9,
+ 'response_received_count': 11,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2022, 6, 13, 16, 52, 58, 946024)}
+2022-06-13 22:38:01 [scrapy] INFO: Spider closed (finished)
