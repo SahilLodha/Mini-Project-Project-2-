@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block cssfile %}
+    <link rel="stylesheet" href="{% static 'custom_css/home.css' %}">
+{% endblock %}
+
+{% block title %}
+    NepRead
+{% endblock %}
+
+{% block activehome %}
+    active
+{% endblock %}
+
+{% block content %}
+    <div class="inner">
+        <h3 class="text-uppercase">Want to join us ..</h3>
+        <h1>We can <span style="color: #f9004d; font-weight: 700">help</span> you <span style="color: #f9004d;
+        font-weight: 700">Grow.</span></h1>
+        <hr>
+        <p>
+            We are implementing use of AI technologies and the computation power provided to us by the current
+            technologies which help us mine the NEPSE data to find patterns that help you take decisions while
+            investing in the Stock Market.
+        </p>
+        <p>We are constantly working to make your lives easier so to support us please register.</p>
+        <hr>
+        <br>
+        <a href="" class="button">Register</a>
+    </div>
+
+{% endblock %}

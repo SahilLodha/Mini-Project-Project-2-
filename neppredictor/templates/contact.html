@@ -1,0 +1,48 @@
+{% extends 'layout.html' %}
+{% load static %}
+
+{% block title %}
+    Contact
+{% endblock %}
+
+{% block activecontact %}
+    active
+{% endblock %}
+
+{% block cssfile %}
+    <link rel="stylesheet" href="{% static 'custom_css/contact.css' %}">
+{% endblock %}
+
+{% block content %}
+    <div class="contact-form col-md-5 col-sm-8">
+    <div class="head-contact"><h1>Contact Us</h1></div>
+        <form action="{% url 'Contact' %}">
+            <div class="input-group mb-3">
+                <span class="input-group-text"><i class="fa fa-user-circle"></i></span>
+                <input type="text" class="form-control" placeholder="Name" aria-label="Username">
+            </div>
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon1"><i class="fa fa-mail-bulk"></i></span>
+                <input type="email" class="form-control" placeholder="Email" aria-label="Email"
+                       aria-describedby="basic-addon1">
+            </div>
+
+            <div class="input-group mb-3">
+                <span class="input-group-text" id="basic-addon2"><i class="fa fa-note-sticky"></i></span>
+                <input type="text" class="form-control" placeholder="Topic"
+                       aria-label="Recipient's username"
+                       aria-describedby="basic-addon2">
+            </div>
+
+
+            <div class="input-group">
+                <span class="input-group-text">Message</span>
+                <textarea class="form-control" aria-label="Message" placeholder="Your Message Here ..."></textarea>
+            </div>
+
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+
+    </div>
+{% endblock %}
+

@@ -5,12 +5,14 @@
 /nepse_crawler/.idea
 /nepse_crawler/nepse_crawler/__pycache__
 /nepse_crawler/nepse_crawler/spiders/__pycache__
-/nepse_crawler/nepse_crawler/spiders
 
 # Nepse Predictor Not to push Files ...
 /neppredictor/.idea
 /neppredictor/media
-/nepse
+/neppredictor/db.sqlite3
+/neppredictor/nepse/models.py
+/neppredictor/nepse/views.py
+
 
 # Developemental Stage Files not to be pushed ...
 /nepse-data

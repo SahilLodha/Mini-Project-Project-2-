@@ -1,0 +1,42 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>
+        {% block title %}{% endblock %}
+    </title>
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+
+    <link rel="stylesheet" href="{% static 'bootstrap5/css/bootstrap.css' %}">
+    <link rel="stylesheet" href="{% static 'fontawesome/css/all.css' %}">
+    <link rel="stylesheet" href="{% static 'custom_css/base.css' %}">
+    {% block cssfile %}{% endblock %}
+</head>
+<body>
+
+<div class="stock-image">
+    <nav>
+
+        <h2 class="logo"><span>Nep</span>Predictor</h2>
+        <ul>
+            <li>
+                <a href="{% url 'Home' %}" class="{% block activehome %}{% endblock %}">Home</a>
+            </li>
+            <li>
+                <a href="{% url 'Live-Trade' %}" class="{% block activetrade %}{% endblock %}">Stock Live</a>
+            </li>
+            <li>
+                <a href="{% url 'Contact' %}" class="{% block activecontact %}{% endblock %}">Contact</a>
+            </li>
+        </ul>
+        <a href="{% url 'Home' %}" class="button">Login</a>
+    </nav>
+    {% block content %}
+    {% endblock %}
+</div>
+
+</body>
+</html>

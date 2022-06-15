@@ -6,8 +6,8 @@ class DailyPricesSpider(scrapy.Spider):
     name = 'daily_prices'
     allowed_domains = ['www.nepalstock.com']
     start_urls = ['http://www.nepalstock.com/todaysprice']
-    names = ['SN', 'Name', 'No. Of Transaction','Max Price', 'Min Price', 'Closing Price' , 'Traded Shares',
-             'Amount',	'Previous Closing']
+    names = ['SN', 'Name', 'No_Of_Transaction','Max_Price', 'Min_Price', 'Closing_Price' , 'Traded_Shares',
+             'Amount',	'Previous_Closing']
 
     def parse(self, response):
         companies_all = response.xpath("//div[@id='home-contents']/table/tr").getall()[2:-4]
